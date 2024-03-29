@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby 3.0.2
 
-* System dependencies
+* mysql Database
 
-* Configuration
+* run "bundle install" and start the mysql server 'sudo service mysql start' (ubunto user) and run 'rails server' after that I think it will be running
 
-* Database creation
+* Services (xls file data import)
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
