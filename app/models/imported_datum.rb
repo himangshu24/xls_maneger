@@ -1,0 +1,2 @@
+class ImportedDatum < ApplicationRecord
+end
